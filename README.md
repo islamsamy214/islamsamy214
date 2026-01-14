@@ -1,1 +1,2 @@
-Hi, Im Islam, just fckin around to find out
+Hi, Im Islam
+Im just fckin around to find out
