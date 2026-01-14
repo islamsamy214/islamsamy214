@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @islamsamy214
-- 👨🏻‍💻 A software engineer
-- 📫 How to reach me ... mail me on 'islamsamy214@gmail.com'
-- 👀 take a look on my **portfolio** : [https://islamdev.me](https://islamsamy214.github.io)
+Hi, Im Islam, just fckin around to find out
